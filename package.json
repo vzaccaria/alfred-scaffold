@@ -1,7 +1,7 @@
 {
   "name": "alfred-scaffold",
-  "version": "0.0.0",
-  "description": "Substitute here your description",
+  "version": "0.0.2",
+  "description": "Simple scaffolding for alfred workflows",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
