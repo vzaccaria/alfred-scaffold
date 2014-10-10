@@ -1,0 +1,4 @@
+
+m() {
+	make clean && make && make pack
+}
