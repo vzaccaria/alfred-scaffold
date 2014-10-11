@@ -11,7 +11,8 @@
   "dependencies": {
     "plist": "~1.1.0",
     "alfredo": "~0.2.0",
-    "winston": "~0.8.1"
+    "winston": "~0.8.1",
+    "newmake": "0.0.2"
   },
   "filter-icon": "images/icon.png",
   "workflow-icon": "images/icon.png"
