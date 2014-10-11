@@ -7,7 +7,7 @@
     <key>createdby</key>
     <string>Vittorio Zaccaria</string>
     <key>description</key>
-    <string>Substitute here your description</string>
+    <string>Simple scaffolding for alfred workflows</string>
     <key>disabled</key>
     <false/>
     <key>name</key>
@@ -15,7 +15,7 @@
     <key>webaddress</key>
     <string>https://your-git-address-here</string>
     <key>uid</key>
-    <string>ec0dd0f4-bd16-4779-887b-47285e064975</string>
+    <string>fbd0a5ed-818f-448f-b4f2-7453cadc4912</string>
     <key>objects</key>
     <array>
       <dict>
@@ -23,8 +23,6 @@
         <dict>
           <key>argumenttype</key>
           <integer>1</integer>
-          <key>escaping</key>
-          <integer>63</integer>
           <key>keyword</key>
           <string>alfred_scaffold</string>
           <key>runningsubtext</key>
@@ -41,7 +39,7 @@
         <key>type</key>
         <string>alfred.workflow.input.scriptfilter</string>
         <key>uid</key>
-        <string>ca92e37a-daa8-4665-86e0-11f86ade7e35</string>
+        <string>c923a37f-31c2-4b33-a622-3250fb81ffb5</string>
         <key>version</key>
         <integer>0</integer>
       </dict>
@@ -58,16 +56,16 @@
         <key>type</key>
         <string>alfred.workflow.action.openurl</string>
         <key>uid</key>
-        <string>3b7cb222-dde9-4adf-961a-a6e366b9455f</string>
+        <string>25c863a4-e840-419b-8358-84a28018854c</string>
       </dict>
     </array>
     <key>connections</key>
     <dict>
-      <key>ca92e37a-daa8-4665-86e0-11f86ade7e35</key>
+      <key>c923a37f-31c2-4b33-a622-3250fb81ffb5</key>
       <array>
         <dict>
           <key>destinationuid</key>
-          <string>3b7cb222-dde9-4adf-961a-a6e366b9455f</string>
+          <string>25c863a4-e840-419b-8358-84a28018854c</string>
           <key>modifiers</key>
           <integer>0</integer>
           <key>modifiersubtext</key>
@@ -77,12 +75,12 @@
     </dict>
     <key>uidata</key>
     <dict>
-      <key>ca92e37a-daa8-4665-86e0-11f86ade7e35</key>
+      <key>c923a37f-31c2-4b33-a622-3250fb81ffb5</key>
       <dict>
         <key>ypos</key>
         <integer>10</integer>
       </dict>
-      <key>3b7cb222-dde9-4adf-961a-a6e366b9455f</key>
+      <key>25c863a4-e840-419b-8358-84a28018854c</key>
       <dict>
         <key>ypos</key>
         <integer>10</integer>

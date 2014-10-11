@@ -10,7 +10,8 @@
   "license": "BSD",
   "dependencies": {
     "plist": "~1.1.0",
-    "alfredo": "~0.2.0"
+    "alfredo": "~0.2.0",
+    "winston": "~0.8.1"
   },
   "filter-icon": "images/icon.png",
   "workflow-icon": "images/icon.png"
