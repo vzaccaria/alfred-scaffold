@@ -9,8 +9,11 @@ srv-src = "src"
 parse ->
     @collect "all", -> [
         @collect "lib", -> 
-            @toDir "#srv-dst", { strip: "#srv-src" },  ->
-                @livescript "#srv-src/**/*.ls"
+            @toDir "#srv-dst", { strip: "#srv-src" }, [ 
+                    -> @copy "#srv-src/**/*.js"
+                    -> @livescript "#srv-src/**/*.ls"
+                    ]
+
     ]
 
     @collect "clean", -> [
