@@ -1,2 +1,2 @@
 
-tail -f "~/.alfred-inspect.log"
+tail -f "/Users/zaccaria/.alfred-inspect.log"

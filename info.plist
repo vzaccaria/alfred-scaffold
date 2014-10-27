@@ -15,7 +15,7 @@
     <key>webaddress</key>
     <string>https://your-git-address-here</string>
     <key>uid</key>
-    <string>fbd0a5ed-818f-448f-b4f2-7453cadc4912</string>
+    <string>e8fc83ec-a8df-4534-bb5a-e4e637e31af5</string>
     <key>objects</key>
     <array>
       <dict>
@@ -39,7 +39,7 @@
         <key>type</key>
         <string>alfred.workflow.input.scriptfilter</string>
         <key>uid</key>
-        <string>c923a37f-31c2-4b33-a622-3250fb81ffb5</string>
+        <string>64c9013c-64a2-4824-adb8-3bba1e71e141</string>
         <key>version</key>
         <integer>0</integer>
       </dict>
@@ -56,16 +56,16 @@
         <key>type</key>
         <string>alfred.workflow.action.openurl</string>
         <key>uid</key>
-        <string>25c863a4-e840-419b-8358-84a28018854c</string>
+        <string>ed598445-8766-4a24-82c0-c83376bbe332</string>
       </dict>
     </array>
     <key>connections</key>
     <dict>
-      <key>c923a37f-31c2-4b33-a622-3250fb81ffb5</key>
+      <key>64c9013c-64a2-4824-adb8-3bba1e71e141</key>
       <array>
         <dict>
           <key>destinationuid</key>
-          <string>25c863a4-e840-419b-8358-84a28018854c</string>
+          <string>ed598445-8766-4a24-82c0-c83376bbe332</string>
           <key>modifiers</key>
           <integer>0</integer>
           <key>modifiersubtext</key>
@@ -75,12 +75,12 @@
     </dict>
     <key>uidata</key>
     <dict>
-      <key>c923a37f-31c2-4b33-a622-3250fb81ffb5</key>
+      <key>64c9013c-64a2-4824-adb8-3bba1e71e141</key>
       <dict>
         <key>ypos</key>
         <integer>10</integer>
       </dict>
-      <key>25c863a4-e840-419b-8358-84a28018854c</key>
+      <key>ed598445-8766-4a24-82c0-c83376bbe332</key>
       <dict>
         <key>ypos</key>
         <integer>10</integer>

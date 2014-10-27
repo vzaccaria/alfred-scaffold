@@ -1,6 +1,6 @@
 include makefile
 
 pack: all
-	rm *.png
+	rm -f *.png
 	./tools/genplist.ls
 	./pack-this.sh
